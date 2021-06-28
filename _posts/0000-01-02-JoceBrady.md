@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: "Oh the places you'll go! Dr. Seuss"
 
 ---
 
